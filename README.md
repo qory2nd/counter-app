@@ -1,2 +1,3 @@
 # counter-app
-The counter app build with javascript
+
+The counter collaboration app build with javascript
